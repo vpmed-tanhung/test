@@ -1,0 +1,11 @@
+{
+  "name": "BHYT AI Check - Kiểm soát Xuất toán",
+  "description": "Ứng dụng AI hỗ trợ dược sĩ lâm sàng kiểm soát xuất toán BHYT từ ảnh chụp đơn thuốc dựa trên Thông tư 20 và mã ICD-10.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "Vision AI analysis",
+    "BHYT Regulation Matching"
+  ]
+}
